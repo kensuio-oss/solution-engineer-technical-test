@@ -42,4 +42,4 @@ You will have to:
 
 ###Delivery
 
-We expect from you that you create a new branch in our public github repository, call it with your name, and create a folder with an export of your SAS code and a Jupyter notebook for PySpark.
+We expect from you that you create a new branch (fork) in your public github repository, and create a folder with an export of your SAS code and a Jupyter notebook for PySpark.
